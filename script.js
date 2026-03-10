@@ -1,0 +1,1 @@
+console.log("Hotel Livin website loaded successfully.");
